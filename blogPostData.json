@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Come iniziare a programmare nel 2025",
+    "content": "Imparare a programmare nel 2025 è più accessibile che mai. Inizia scegliendo un linguaggio come JavaScript o Python, segui una roadmap chiara e sperimenta con piccoli progetti per consolidare ciò che impari.",
+    "image": "./img/laptop-coding.webp",
+    "tags": ["programming", "beginner", "2025", "tutorial"]
+  },
+  {
+    "title": "5 estensioni VS Code che miglioreranno la tua produttività",
+    "content": "Visual Studio Code dispone di migliaia di estensioni, ma alcune possono realmente trasformare il tuo workflow: Prettier, ESLint, GitLens, Live Server e Material Icon Theme.",
+    "image": "./img/vs-code.png",
+    "tags": ["vscode", "productivity", "tools", "developer"]
+  },
+  {
+    "title": "Perché il design responsive è fondamentale nel web moderno",
+    "content": "Con oltre il 60% del traffico web proveniente da dispositivi mobili, il responsive design non è più opzionale. Utilizzare flexbox, grid e media queries permette di creare interfacce adattabili e professionali.",
+    "image": "./img/responsive-scene.webp",
+    "tags": ["responsive", "css", "webdesign", "frontend"]
+  },
+  {
+    "title": "Come funziona un’API REST: spiegazione semplice",
+    "content": "Le API REST permettono a sistemi diversi di comunicare tramite operazioni come GET, POST, PUT e DELETE. Ogni risorsa è raggiungibile tramite un endpoint e rappresentata in formato JSON.",
+    "image": "./img/api-rest.jpg",
+    "tags": ["api", "backend", "rest", "javascript"]
+  },
+  {
+    "title": "Le migliori abitudini per studiare programmazione senza demotivarti",
+    "content": "Studiare programmazione richiede costanza: crea una routine, lavora su progetti reali, alterna studio e pratica e non dimenticare di riposare. Piccoli progressi costanti portano a grandi risultati.",
+    "image": "student-writing-notes.jpg",
+    "tags": ["study", "motivation", "learning", "coding"]
+  }
+]
